@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prince
-- 👀 I’m interested in ... Building new Technology 
+- 👀 I’m interested in ... Solving Tough Issues or Problems using Technology
 - 🌱 I’m currently learning ... Data Science and Python Programming
 - 💞️ I’m looking to collaborate on ... Working on Relevent-Jobs and Problem-Solving, Motivating+Healthy Community
 - 📫 How to reach me ... princelakhera72@gmail.com
