@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Prince
-- 👀 I’m interested in ... Solving Tough Issues or Problems using Science & Technology
-- 🌱 I’m currently learning ... Data Science and Python Programming
-- 💞️ I’m looking to collaborate on ... Working on Relevent-Jobs and Problem-Solving, Motivating+Healthy Community
-- 📫 How to reach me ... princelakhera72@gmail.com
+- 👀 I’m interested in ... Solving  Problems & Reasearch & Analysis
+- 🌱 I’m currently Pursuing ... BTech in Computer Science Engineering
+- 💞️ I’m looking to collaborate on ... Relevent-Jobs, R & D and Problem-Solving 
+- 📫 How to reach me ... princelakhera2002@gmail.com
 
 <!---
 TheLordPrince/TheLordPrince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
